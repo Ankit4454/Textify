@@ -37,7 +37,7 @@ function App() {
             size={60}
           />
       </div> 
-      <Navbar title="TextUtils" mode={isDarkMode} />
+      <Navbar title="Textify" mode={isDarkMode} />
 
       <Switch>
           <Route exact path="/">

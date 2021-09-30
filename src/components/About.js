@@ -11,7 +11,7 @@ export default function About(props){
 
                 <div className={`contact-inner ${theme}`}>
                     <h1>About Us</h1>
-                    <p className="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus velit ducimus, enim inventore earum, eligendi nostrum pariatur necessitatibus eius dicta a voluptates sit deleniti autem error eos totam nisi neque voluptates sit deleniti autem error eos totam nisi neque.
+                    <p className="text">Welcome to Textify, your number one source for all utilities for text like capitalization, convert to uppercase and lowercase, etc. We're dedicated to providing the best services to users with a focus on user-friendly UI, flexibility, compatibility and uniqueness. 
                     </p>
                     <div className="skills">
                         <span>Web Design</span>
